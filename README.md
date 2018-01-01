@@ -25,4 +25,4 @@ file system.
 
 ## Copyright
 
-2018 git.training.
+*2018 git.training.*
